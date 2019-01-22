@@ -1,0 +1,138 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    
+}
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.wrapper_full {
+/*    height: 841px;*/
+    width: 595px;
+}
+
+.wrapper {
+/*    height: 820px;*/
+    width: 575px;
+}
+
+.header {
+    height: 154px;
+    width: 100%;
+    border-bottom: 1px solid #585858;
+}
+
+.logo {
+    width: 100px;
+    float: left;
+}
+
+.logo img {
+    height: 50px;
+}
+
+.head {
+    float: left;
+    margin-left: 37px;
+}
+
+.head h1 {
+    text-align: center;
+    font-size: 25px;
+}
+
+.head h6 {
+    text-align: center;
+    font-size: 15px;
+}
+
+.head p {
+    text-align: center;
+    font-size: 13px;
+
+}
+
+.print ul {
+    float: right;
+}
+
+.print ul li {
+    float: left;
+    padding: 10px;
+}
+
+.left {
+    float: left;
+    text-align: left;
+}
+
+.right h3,
+.left h3 {
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.left h6 {
+    font-size: 13px;
+    margin-top: 12px;
+}
+
+.right {
+    float: right;
+    text-align: right;
+}
+
+.body_h{
+    border-bottom: 1px solid #585858;
+}
+.description{
+    width: 575px;
+    height: 363px;
+}
+.ditil{
+    width: 250px;
+    float: left;
+    border-right: 1px solid #585858;
+}
+
+.rx{
+    width: 320px;
+    float: left;
+    
+}
+.rx p,
+.rx h2{
+    padding-left: 5px;
+}
+.ditil h3{
+    padding-bottom: 7px;
+}
+.ditil p{
+    padding-bottom: 5px;
+}
+.footer{
+    height: 50px;
+    border-top: 1px solid #585858;
+}
+.text{
+    float: left;
+}
+.text p{
+    text-align: center;
+    font-size: 13px;
+    margin-left: 55px;
+    margin-top: 10px;
+}
+.credit{
+    float: right;
+}
+.credit img{
+    height: 50px;
+    float: right;
+    margin-right: 24px;
+}
